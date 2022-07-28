@@ -30,7 +30,7 @@ public class MailService {
 
 	  
 		 System.out.println("Rahul Chnages...");
-
+                         System.out.println("Dev1 Chnages...");
 		 System.out.println("Mail Send Succesfull");
 	}
 }
